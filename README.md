@@ -1,1 +1,63 @@
-# 100-Days-Of-Real-World-Tech-Challenge
+# 🚀 100 Days of Real World Tech
+
+> Documenting my journey of building **real-world tech projects** daily for the next 100 days.  
+>  
+> **Goal:** Move beyond tutorials and create practical, working tech projects with real use cases.
+
+---
+
+## 📅 Challenge Timeline
+
+- **Start Date:** 28th April 2025
+- **End Date:** 6th August 2025 (tentative)
+- **Commitment:** Minimum 1 real-world implementation every day.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+- Node.js + Express.js
+- MongoDB + Mongoose
+- React.js + Redux
+- REST APIs & Microservices
+- Authentication (JWT, OAuth)
+- Docker Basics
+- GitHub Actions for CI/CD
+- Cloud Deployment (Render, Vercel, AWS Basics)
+- Other tools as required
+
+---
+
+## 📜 Rules I am Following
+
+- 📌 Code every day.
+- 📌 Push code daily (even small progress).
+- 📌 Share progress on LinkedIn.
+- 📌 Real-world use cases only (no "Hello World" apps).
+- 📌 Focus on writing clean and scalable code.
+
+---
+
+## 📚 Progress Journal
+
+| Day | Title/Project | Tech | GitHub Link |
+|:---:|:--------------|:----:|:-----------:|
+| 1 | Basic REST API with Node.js & Express | Node.js, Express.js | [View Code](your-day1-link-here) |
+| 2 | (Coming Soon...) | MongoDB, Mongoose |  |
+| 3 | (Coming Soon...) |  |  |
+| ... |  |  |  |
+| 100 | (Final Day) | Full Stack Project Deployment |  |
+
+---
+
+## 🎯 Vision Behind This Challenge
+
+> "The best way to learn is by doing.  
+> Through this challenge, I aim to build a strong foundation not just in writing code but in solving problems, designing scalable systems, and deploying them professionally."
+
+---
+
+## 📢 Stay Connected
+
+- 💬 Follow my daily posts on [LinkedIn](https://www.linkedin.com/in/nileshdhankani/)
+- ⭐ Star the repository if you find any of the projects helpful!
