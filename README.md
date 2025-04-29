@@ -42,8 +42,8 @@
 
 | Day | Title/Project | Tech | GitHub Link |
 |:---:|:--------------|:----:|:-----------:|
-| 1 | Basic REST API with Node.js & Express | Node.js, Express.js | [View Code](your-day1-link-here) |
-| 2 | (Coming Soon...) | MongoDB, Mongoose |  |
+| 1 | Basic REST API with Node.js & Express | Node.js, Express.js | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%201) |
+| 2 | Integrating MongoDB with Node.js API | MongoDB, Mongoose | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%202) |
 | 3 | (Coming Soon...) |  |  |
 | ... |  |  |  |
 | 100 | (Final Day) | Full Stack Project Deployment |  |
