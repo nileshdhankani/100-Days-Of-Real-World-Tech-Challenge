@@ -45,6 +45,7 @@
 | 1 | Basic REST API with Node.js & Express | Node.js, Express.js | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%201) |
 | 2 | Integrating MongoDB with Node.js API | MongoDB, Mongoose | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%202) |
 | 3 | Added DELETE functionality in Node.js API connected with MongoDB. | MongoDB, Mongoose  | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%203) |
+| 4 | Added the Update feature to my Node.js + MongoDB REST API using PUT requests. | MongoDB, Mongoose  | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%204) |
 | ... |  |  |  |
 | 100 | (Final Day) | Full Stack Project Deployment |  |
 
