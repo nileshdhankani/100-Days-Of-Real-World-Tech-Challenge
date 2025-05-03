@@ -46,6 +46,8 @@
 | 2 | Integrating MongoDB with Node.js API | MongoDB, Mongoose | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%202) |
 | 3 | Added DELETE functionality in Node.js API connected with MongoDB. | MongoDB, Mongoose  | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%203) |
 | 4 | Added the Update feature to my Node.js + MongoDB REST API using PUT requests. | MongoDB, Mongoose  | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%204) |
+| 5 | Centralized Error Handling in Express.js | Node.js, Express.js  | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%205) |
+| 6 | Enhancing the Centralized Error Handling middleware in my Node.js + MongoDB REST API. | MongoDB, Mongoose  | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%206) |
 | ... |  |  |  |
 | 100 | (Final Day) | Full Stack Project Deployment |  |
 
