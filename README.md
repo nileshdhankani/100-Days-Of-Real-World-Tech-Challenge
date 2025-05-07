@@ -49,6 +49,7 @@
 | 5 | Centralized Error Handling in Express.js | Node.js, Express.js  | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%205) |
 | 6 | Enhancing the Centralized Error Handling middleware in my Node.js + MongoDB REST API. | MongoDB, Mongoose  | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%206) |
 | 7 | Pagination & Filtering in Mongoose | MongoDB, Mongoose  | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%207) |
+| 8 | Sorting & Field Selection in REST APIs | Node.js, MongoDB, Mongoose  | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%208) |
 | ... |  |  |  |
 | 100 | (Final Day) | Full Stack Project Deployment |  |
 
