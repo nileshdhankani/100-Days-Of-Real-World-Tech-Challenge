@@ -54,7 +54,8 @@
 | 10 | Refresh Tokens & Secure Token Storage Strategy  | Node.js, MongoDB, Mongoose, Express.js  | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%2010) |
 | 11 |  Logout & Token Invalidation  | Node.js, MongoDB, Mongoose, Express.js  | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%2011) |
 | 12 |  Secure Password Reset Flow using Email-based Tokens  | Node.js, MongoDB, Mongoose, Express.js  | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%2012) |
-| 13 |  I built a File Upload API  | Node.js,Express.js  | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%2013) |
+| 13 |  I built a File Upload API  | Node.js, Express.js  | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%2013) |
+| 14 |  mage Upload API with Preview, Delete, and Cleanup support using Node.js and Multer | Node.js, Express.js, Multer , MongoDB, Mongoose | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%2014) |
 | ... |  |  |  |
 | 100 | (Final Day) | Full Stack Project Deployment |  |
 
