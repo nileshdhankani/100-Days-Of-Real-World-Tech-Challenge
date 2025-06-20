@@ -58,6 +58,7 @@
 | 14 |  Image Upload API with Preview, Delete, and Cleanup support using Node.js and Multer | Node.js, Express.js, Multer , MongoDB, Mongoose | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%2014) |
 | 15 |  Built a File Upload to Cloud Storage backend | Node.js, Express.js, Multer | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%2015) |
 | 16 |  Rate Limiting Middleware using express-rate-limit | Express.js, express-rate-limit | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%2016) |
+| 17 |  Logging API requests & responses with timestamps using morgan | Node.js, Express.js, morgan | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%2017) |
 | ... |  |  |  |
 | 100 | (Final Day) | Full Stack Project Deployment |  |
 
