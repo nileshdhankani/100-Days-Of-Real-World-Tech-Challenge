@@ -60,6 +60,7 @@
 | 16 |  Rate Limiting Middleware using express-rate-limit | Express.js, express-rate-limit | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%2016) |
 | 17 |  Logging API requests & responses with timestamps using morgan | Node.js, Express.js, morgan | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%2017) |
 | 18 |  I added Request Validation to my backend using express-validator | Node.js, Express.js | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%2018) |
+| 19 |  Input Sanitization with express-validator | Node.js, Express.js, Express Validator | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%2019) |
 | ... |  |  |  |
 | 100 | (Final Day) | Full Stack Project Deployment |  |
 
