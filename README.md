@@ -61,6 +61,7 @@
 | 17 |  Logging API requests & responses with timestamps using morgan | Node.js, Express.js, morgan | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%2017) |
 | 18 |  I added Request Validation to my backend using express-validator | Node.js, Express.js | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%2018) |
 | 19 |  Input Sanitization with express-validator | Node.js, Express.js, Express Validator | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%2019) |
+| 20 |  MongoDB Query Filters – Dynamic search in REST APIs | Node.js, Express.js, MongoDB, Mongoose | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%2020) |
 | ... |  |  |  |
 | 100 | (Final Day) | Full Stack Project Deployment |  |
 
