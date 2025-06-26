@@ -63,6 +63,7 @@
 | 19 |  Input Sanitization with express-validator | Node.js, Express.js, Express Validator | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%2019) |
 | 20 |  MongoDB Query Filters – Dynamic search in REST APIs | Node.js, Express.js, MongoDB, Mongoose | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%2020) |
 | 21 |  IP Geolocation in a Node.js API | Node.js, Express.js, geoip-lite | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%2021) |
+| 22 |  secured my API by implementing CORS Whitelisting with Express.js | Node.js, Express.js, cors with a whitelist array | [View Code](https://github.com/nileshdhankani/100-Days-Of-Real-World-Tech-Challenge/tree/main/Day%2022) |
 | ... |  |  |  |
 | 100 | (Final Day) | Full Stack Project Deployment |  |
 
